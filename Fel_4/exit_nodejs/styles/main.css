@@ -258,3 +258,8 @@ div.search-form
 {
 	background: #1a54a6;
 }
+
+#google_translate_element {
+	margin-left: 20px;
+	margin-bottom: 0px; 
+}
