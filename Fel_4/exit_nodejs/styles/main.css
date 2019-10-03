@@ -29,7 +29,33 @@ body
 {
     padding: 20px;
 }
+#q1
+{
+	padding: 20px;
+}
+#q2
+{
+	padding: 20px;
 
+}
+#q3
+{
+	padding: 20px;
+	
+}
+#questions
+{
+	padding:20px;
+
+}
+#ask
+{
+	position: 20px;
+  	
+}
+#askForm{
+	padding:20px;
+}
 #sidebar
 {
 	padding: 20px 20px 20px 0;
