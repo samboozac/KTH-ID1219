@@ -260,6 +260,11 @@ div.search-form
 }
 
 #google_translate_element {
-	margin-left: 20px;
-	margin-bottom: 0px; 
+	
+	
+	position: fixed;
+	right : 10%;
+	top: 100px;
+	padding:40px;
+
 }
