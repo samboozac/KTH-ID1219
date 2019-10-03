@@ -234,5 +234,6 @@ div.search-form
 }
 
 #google_translate_element {
-	margin-left: 20px; 
+	margin-left: 20px;
+	margin-bottom: 0px; 
 }
