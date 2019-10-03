@@ -43,9 +43,15 @@ body
 	padding: 20px;
 	
 }
+#faq{
+	padding: 20px;
+}
 #questions
 {
 	padding:20px;
+	position: relative;
+  	width: 400px;
+  	height: 100px;
 
 }
 #ask
@@ -262,7 +268,7 @@ div.search-form
 #google_translate_element {
 	
 	
-	position: fixed;
+	position: absolute;
 	right : 10%;
 	top: 100px;
 	padding:40px;
