@@ -9,7 +9,7 @@
   "author": "ÖB+CS",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "kth-node-configuration": "^1.6.4",
     "kth-node-ldap": "^2.3.8",
     "kth-node-log": "^3.0.2",
